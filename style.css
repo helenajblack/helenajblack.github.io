@@ -1,15 +1,20 @@
 p {
-  color: red;
+  color: ;
 }
 * {
   font-family: 'Georgia', 'Times', serif;
 }
 
 a {
-  color: SeaGreen;
+  color: ;
   text-decoration: none;
 }
 
 img {
   border-radius: 100%;
+}
+
+#container {
+	width: 800px;
+	margin: 40px auto 60px;
 }
