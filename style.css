@@ -1,20 +1,38 @@
-p {
-  color: ;
-}
+
 * {
   font-family: 'Georgia', 'Times', serif;
 }
 
-a {
-  color: ;
-  text-decoration: none;
+
+#container {
+	width: 800px;
+	margin: 40px auto 60px;
 }
 
-img {
-  border-radius: 100%;
+#body {
+	background: "http://cdn.wallpapersafari.com/33/46/QCWw1E.jpg"
+}
+
+#pic {
+	float: right;
 }
 
 #container {
 	width: 800px;
 	margin: 40px auto 60px;
+}
+
+#content-summarycontent {
+	margin: 0 0 16px 0;
+	padding: 0 0 32px 0;
+
+	font-style: italic;
+	font-size: 20px;
+}
+
+h2 {
+	border-bottom: 2px;
+}
+h3 {
+	border-bottom: 1px solid #999;
 }
