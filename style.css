@@ -4,11 +4,11 @@
 }
 
 #contents {
-	width: 500px; margin: 20px auto; float: center;
+	width: 500px; margin: 5px auto; float: center;
 }
 
 #container {
-	width: 500px; margin: 20px auto; padding: 50px; border-width: 10px;
+	width: 500px; margin: 5px auto; padding: 10px; border-width: 10px; float: center;
 }
 
 #body {
