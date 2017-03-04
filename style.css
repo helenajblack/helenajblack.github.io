@@ -1,6 +1,6 @@
 
 * {
-  font-family: 'Georgia', 'Times', serif; color: DarkSlateGray;
+  font-family: 'Georgia', 'Times', serif; color: #67696b;
 }
 
 
@@ -33,5 +33,5 @@ h3 {
 	border-bottom: 1px solid #999;
 }
 table, th, td {
-	border: 1px solid darkslategray; border-collapse: collapse; background-color: lightslategray 
+	border: 1px solid #67696b; border-collapse: collapse; background-color: #eff0f2 
 }
