@@ -15,8 +15,9 @@
 	font-size: 20px;
 }
 h1 {
-	font-family: 'Sofia'; font-size: 75px;
+	font-family: 'Sofia'; font-size: 75px; padding: 2px;
 }
+
 h2 {
 	font-family: 'Sofia'; font-size: 50px;
 }
