@@ -3,10 +3,12 @@
   font-family: 'Georgia', 'Times', serif; color: #67696b;
 }
 
+#contents {
+	width: 500px; margin: 20px auto; float: center;
+}
 
 #container {
-	width: 800px;
-	margin: 75px auto 25px;
+	width: 500px; margin: 20px auto; padding: 50px; border-width: 10px;
 }
 
 #body {
