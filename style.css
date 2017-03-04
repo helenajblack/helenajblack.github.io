@@ -32,3 +32,6 @@
 h3 {
 	border-bottom: 1px solid #999;
 }
+table, th, td {
+	border: 1px solid lightslategray; border-collapse: collapse;
+}
