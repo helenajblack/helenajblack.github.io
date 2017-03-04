@@ -17,11 +17,6 @@
 	float: right;
 }
 
-#container {
-	width: 800px;
-	margin: 40px auto 60px;
-}
-
 #content-summarycontent {
 	margin: 0 0 16px 0;
 	padding: 0 0 32px 0;
@@ -29,6 +24,10 @@
 	font-style: italic;
 	font-size: 20px;
 }
+h1 {
+	font-size: 75px;
+}
+
 h3 {
 	border-bottom: 1px solid #67696b;
 }
